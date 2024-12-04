@@ -1,8 +1,16 @@
-<h1 align="left">Sobre Mim</h1>
+<h1 align="left">Olá! Eu sou o Arthur Granito 👋</h1>
 
 ###
 
-<h1 align="left">Tecnologias</h1>
+<h2 align="left">Sobre Mim</h2>
+
+###
+
+<p align="left">- Programador Frontend<br>- Desenvolvedor JavaScript<br>- Desenvolvedor em React</p>
+
+###
+
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -30,7 +38,7 @@
 
 ###
 
-<h1 align="left">Estatísticas</h1>
+<h2 align="left">Estatísticas</h2>
 
 ###
 
@@ -39,5 +47,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurgranito&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurgranito&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/arthurgranito/arthurgranito/output/snake.svg" alt="Snake animation" />
 
 ###
