@@ -1,8 +1,8 @@
-<h2 align="left">Sobre Mim</h2>
+<h1 align="left">Sobre Mim</h1>
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h1 align="left">Tecnologias</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Estatísticas</h2>
+<h1 align="left">Estatísticas</h1>
 
 ###
 
