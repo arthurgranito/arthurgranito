@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Programador Frontend<br>- Desenvolvedor JavaScript<br>- Desenvolvedor em React<br>- Desenvolvedor em Vue.js</p>
+<p align="left">- Programador Frontend<br>- Desenvolvedor JavaScript<br>- Desenvolvedor em React<br>- Desenvolvedor em Vue.js<br>- Desenvolvedor em TypeScript</p>
 
 ###
 
