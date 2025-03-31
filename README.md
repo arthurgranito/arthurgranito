@@ -40,6 +40,8 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
 </div>
 
 ###
