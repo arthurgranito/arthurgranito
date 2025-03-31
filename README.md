@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Programador Frontend<br>- Desenvolvedor JavaScript<br>- Desenvolvedor em React<br>- Desenvolvedor em Vue.js<br>- Desenvolvedor em TypeScript</p>
+<p align="left">- Programador Frontend<br>- Desenvolvedor JavaScript<br>- Desenvolvedor em React<br>- Desenvolvedor em Vue.js<br>- Desenvolvedor em TypeScript<br>- Estudante de Ciências da Computação na UNIFESO<br>- Estudante de Python<br>- Estudante de C<br>- Estudante de C++</p>
 
 ###
 
@@ -42,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c++" height="40" alt="C++ logo" />
 </div>
 
 ###
