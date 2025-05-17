@@ -18,6 +18,7 @@
 - Computer Science student at UNIFESO<br>
 - Enthusiast of Microservices Architecture<br>
 - Learning C, Arduino, and Robotics
+- C# and ASP.NET developer
 </p>
 
 ###
@@ -56,6 +57,8 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# logo" />
 </div>
 
 ###
