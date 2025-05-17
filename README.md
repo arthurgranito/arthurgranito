@@ -18,7 +18,7 @@
 - Computer Science student at UNIFESO<br>
 - Enthusiast of Microservices Architecture<br>
 - Learning C, Arduino, and Robotics<br>
-- C# and ASP.NET developer
+- C# and ASP.NET developer<br>
 - Docker<br>
 - DevOps<br>
 - Node.js
@@ -88,13 +88,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/arthur.granito/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+  <a href="https://www.instagram.com/arthurgranito_/" target="_blank" text-decoration="none" >
+    <img src="https://skillicons.dev/icons?i=instagram" width="52" height="40" alt="Instagram logo" />
   </a>
-  <a href="https://www.linkedin.com/in/arthurgranito" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  <a href="https://www.linkedin.com/in/arthurgranito" target="_blank" text-decoration="none" >
+    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:arthurgranito01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  <a href="mailto:arthurgranito01@gmail.com" target="_blank" text-decoration="none" >
+    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="Gmail logo" />
   </a>
 </div>
