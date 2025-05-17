@@ -65,7 +65,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=node" height="40" alt="Node.js logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
 </div>
 
 ###
