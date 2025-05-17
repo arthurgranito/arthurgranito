@@ -17,8 +17,11 @@
 - React and Vue.js experience<br>
 - Computer Science student at UNIFESO<br>
 - Enthusiast of Microservices Architecture<br>
-- Learning C, Arduino, and Robotics
+- Learning C, Arduino, and Robotics<br>
 - C# and ASP.NET developer
+- Docker<br>
+- DevOps<br>
+- Node.js
 </p>
 
 ###
@@ -59,6 +62,10 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=node" height="40" alt="Node.js logo" />
 </div>
 
 ###
