@@ -88,13 +88,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/arthurgranito_/" target="_blank" text-decoration="none" >
+  <a href="https://www.instagram.com/arthurgranito_/" target="_blank" style="text-decoration: none" >
     <img src="https://skillicons.dev/icons?i=instagram" width="52" height="40" alt="Instagram logo" />
   </a>
-  <a href="https://www.linkedin.com/in/arthurgranito" target="_blank" text-decoration="none" >
+  <a href="https://www.linkedin.com/in/arthurgranito" target="_blank" style="text-decoration: none" >
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:arthurgranito01@gmail.com" target="_blank" text-decoration="none" >
+  <a href="mailto:arthurgranito01@gmail.com" target="_blank" style="text-decoration: none" >
     <img src="https://skillicons.dev/icons?i=gmail" width="52" height="40" alt="Gmail logo" />
   </a>
 </div>
