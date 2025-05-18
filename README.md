@@ -21,7 +21,8 @@
 - C# and ASP.NET developer<br>
 - Docker<br>
 - DevOps<br>
-- Node.js
+- Node.js<br>
+- MySQL
 </p>
 
 ###
@@ -66,6 +67,8 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
 </div>
 
 ###
