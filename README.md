@@ -73,8 +73,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jpa" height="40" alt="JPA logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="Hibernate logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL logo" />
@@ -83,11 +81,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=intellij" height="40" alt="IntelliJ logo" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="IntelliJ logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="IntelliJ logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
 </div>
 
 ###
