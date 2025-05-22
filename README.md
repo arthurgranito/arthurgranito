@@ -78,6 +78,16 @@
   <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="Hibernate logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=intellij" height="40" alt="IntelliJ logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="IntelliJ logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="IntelliJ logo" />
 </div>
 
 ###
