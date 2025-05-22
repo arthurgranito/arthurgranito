@@ -14,15 +14,18 @@
 <p align="left">
 - Full Stack Developer (React + Java)<br>
 - JavaScript & TypeScript Developer<br>
-- React and Vue.js experience<br>
+- React developer<br>
+- Vue.js expecience<br>
 - Computer Science student at UNIFESO<br>
 - Enthusiast of Microservices Architecture<br>
 - Learning C, Arduino, and Robotics<br>
-- C# and ASP.NET developer<br>
+- C# and ASP.NET<br>
 - Docker<br>
 - DevOps<br>
 - Node.js<br>
-- MySQL
+- MySQL<br>
+- PostgreSQL<br>
+- Java, Springboot, JPA and Hibernate Developer<br>
 </p>
 
 ###
@@ -69,6 +72,12 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jpa" height="40" alt="JPA logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="Hibernate logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL logo" />
 </div>
 
 ###
