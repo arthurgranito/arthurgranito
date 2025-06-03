@@ -18,6 +18,7 @@
 - Vue.js expecience<br>
 - Computer Science student at UNIFESO<br>
 - Enthusiast of Microservices Architecture<br>
+- React Native Developer<br>
 - Learning C, Arduino, and Robotics<br>
 - C# and ASP.NET<br>
 - Docker<br>
