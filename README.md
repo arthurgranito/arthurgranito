@@ -15,12 +15,10 @@
 - Full Stack Developer (React + Java)<br>
 - JavaScript & TypeScript Developer<br>
 - React developer<br>
-- Vue.js expecience<br>
+- Next.js<br>
 - Computer Science student at UNIFESO<br>
-- Enthusiast of Microservices Architecture<br>
+- Microservices Architecture<br>
 - React Native Developer<br>
-- Learning C, Arduino, and Robotics<br>
-- C# and ASP.NET<br>
 - Docker<br>
 - DevOps<br>
 - Node.js<br>
@@ -50,8 +48,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
@@ -64,8 +60,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
@@ -77,8 +71,6 @@
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ logo" />
   <img width="12" />
