@@ -39,11 +39,9 @@ Sou desenvolvedor Full Stack com foco em backend Java, baseado em Rio de Janeiro
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [devToClient](https://devtoclient.com) | SaaS para gerenciamento de entregas e aprovações entre devs e clientes | Java, Spring Boot, React, MongoDB, JWT |
-| [CEUPEX](https://github.com/arthurgranito/ceupex) | App comunitário para instituição acadêmica com ~83 usuários ativos | Spring Boot, React, MongoDB, Docker, Nginx |
-| [Lecto](#) | Aplicativo mobile de aprendizado com backend Spring Boot e app Expo | Spring Boot, React Native, Expo, PostgreSQL |
-| [FinanceAI](#) | Plataforma de gestão financeira com integração de IA | Java, Spring Boot, React, OpenAI API |
-| [DevMind AI](#) | Ferramenta de produtividade com IA para desenvolvedores | Java, Spring Boot, TypeScript |
-
+| [CEUPEX](https://ceupex.com.br) | App comunitário para instituição religiosa e acadêmica com ~83 usuários ativos | Spring Boot, React, MongoDB, Docker, Nginx |
+| [Sistema Odontológico Frontend](https://github.com/arthurgranito/odontoSystemFrontend) | Sistema fronent para consultórios odontológicos | React, TypeScript, TailwindCSS |
+| [Sistema Odontológico Backend](https://github.com/arthurgranito/odontoSystemBackend) | Sistema fronent para consultórios odontológicos | Java, Spring Boot, Spring Security, PostgreSQL |
 ---
 
 ## 📊 GitHub Stats
